@@ -4,6 +4,11 @@ body {
     padding: 1em;
 }
 
+.header {
+    display: grid;
+    justify-items: center;
+}
+
 header h1, section h2 {
     text-align: center;
     font-family: 'Graduate', cursive;
@@ -21,4 +26,9 @@ header h1, section h2 {
 .main img {
     width: 80%;
     border-radius: 1.5em;
+}
+
+.refresh-note {
+    display: grid;
+    justify-items: center;
 }
