@@ -1,0 +1,11 @@
+
+header h1, section h2 {
+    text-align: center;
+    font-family: 'Graduate', cursive;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+}
