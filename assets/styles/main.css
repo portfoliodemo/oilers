@@ -15,4 +15,10 @@ header h1, section h2 {
     display: grid;
     grid-template-columns: 1fr;
     justify-items: center;
+    padding: 1em;
+}
+
+.main img {
+    width: 80%;
+    border-radius: 1.5em;
 }
